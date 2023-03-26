@@ -1,0 +1,1 @@
+alert("welkom op de boekbesprekings extra ducumenten website van Lukas Thys de genie. Vind je ook dat Lukas Thys een genie is, klik dan op oké anders kan je niet verder zoals op de start pagina")

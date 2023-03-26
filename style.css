@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.gn {
+	box-shadow:inset 50px 50px 50px 50px #3dc21b;
+	background-color:#44c767;
+	border-radius:42px;
+	border:12px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:28px;
+	padding:32px 76px;
+	text-decoration:none;
+	text-shadow:3px 3px 3px #2f6627;
+}
+.gn:hover {
+	background-color:#5cbf2a;
+}
+.gn:active {
+	position:relative;
+	top:1px;
+}
+.gn {
+  color: cyan;
+}
+.inleiding {
+  background-color:gray ;
+  color:darkblue ;
+}
